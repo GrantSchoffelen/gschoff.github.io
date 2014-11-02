@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Hexo]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://gschoff.github.io/"/>
+  <updated>2014-11-02T21:20:35.892Z</updated>
+  <id>http://gschoff.github.io/</id>
+  
+  <author>
+    <name><![CDATA[John Doe]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[What influenced and inspired you to learn to code?]]></title>
+    <link href="http://gschoff.github.io/2014/11/02/What-influenced-and-inspired-you-to-learn-to-code/"/>
+    <id>http://gschoff.github.io/2014/11/02/What-influenced-and-inspired-you-to-learn-to-code/</id>
+    <published>2014-11-02T04:56:58.000Z</published>
+    <updated>2014-11-02T04:58:10.000Z</updated>
+    <content type="html"><![CDATA[<p>While running two startup companies I found that I have an enthusiasm for learning how to code. I am impressed and exhilarated by what developing can accomplish, and I want to gain as much experience and expertise as possible.</p>
+<p>I want to create things on my own as a developer, and I know myself well enough to realize that I learn best when I can surround myself with experts and other students as focused as I am.</p>
+<p>My goal is to address real life pain points in areas that I’m passionate about. Specifically I would love to solve problems in the healthcare industry by developing tools to create stronger and clearer Doctor-Patient communication.</p>
+<p>While auditing a class on health psychology at Princeton University I became fascinated with Doctor-Patient communication, and more specifically patient adherence. It was something I could relate to. </p>
+<p>Growing up my Grandmother acted as my second mother. She lived at home with my family and because of this I was always aware of her issue with adherence. It was hard for her to remember what pill to take and when. To this day she still tells me that she wishes the TV would just tell her when to take her pill, and whether she has already taken it or not.  </p>
+<p>During the class it was absolutely astounding to hear the statistics on the amount of people who fail to take their medication properly, and in general fail to follow their doctor’s instructions. It was even more shocking to hear how studies had improved adherence using clearer communication, and basic reminders.</p>
+<p>Immediately I saw adherence as an area that technology developed with an attention and focus on health psychology and marketing could greatly improve.</p>
+<p>I want to improve the healthcare industry by developing tools that improve doctor patient communication, and that create a system for patients to follow to their medical regimes with ease.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>While running two startup companies I found that I have an enthusiasm for learning how to code. I am impressed and exhilarated by what de]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://gschoff.github.io/2014/11/01/hello-world/"/>
+    <id>http://gschoff.github.io/2014/11/01/hello-world/</id>
+    <published>2014-11-02T02:40:02.000Z</published>
+    <updated>2014-11-02T02:40:02.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
